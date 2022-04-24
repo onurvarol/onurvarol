@@ -16,6 +16,6 @@ You can check out some other websites that I created to share my hobbies and int
 
 ## Contact
 
-🌐www.onurvarol.com
+🌐 [www.onurvarol.com](http://www.onurvarol.com)
 
-🐦@onurvarol
+🐦 [@onurvarol](https://www.twitter.com/onurvarol)
