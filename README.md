@@ -4,7 +4,9 @@ I am an Assistant Professor at the Sabanci University Faculty of Engineering and
 Principal Investigator at the [VIRAL Lab](http://varollab.com/). My research focuses on developing techniques to analyze online 
 behaviors to improve individual well-being and address societal problems using online data.
 
-I developed [Botometer](https://botometer.iuni.iu.edu) to detect social bots 🤖 on Twitter.
+My team released an interactive platform for analyzing Turkish 🇹🇷 Elections on [Secim2023.biz](http://secim2023.biz/) website.
+
+I developed [Botometer](https://botometer.iuni.iu.edu) to detect social bots 🤖 on Twitter. 
 
 You can check out some other websites that I created to share my hobbies and interests
 
